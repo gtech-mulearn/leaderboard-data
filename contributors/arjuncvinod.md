@@ -9,4 +9,3 @@ joining_date: ""
 role : intern
 ---
 
-Still waiting for this
