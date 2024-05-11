@@ -7,4 +7,4 @@ linkedin: stdestiny
 role: Intern
 ---
 
-A backend developer who loves python.
+A backend developer who loves coding.
