@@ -3,10 +3,10 @@ name: Alan Francis
 title: Contributor
 github: alanfrancis442
 twitter: ""
-linkedin: ""
+linkedin: alan-francis-santhosh-92811b298
 slack: ""
 joining_date: ""
-role : contributor
+role : intern
 ---
 
 Still waiting for this
