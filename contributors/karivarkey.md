@@ -2,8 +2,8 @@
 name: Geevarghese Regi
 title: Contributor
 github: karivarkey
-twitter: "https://twitter.com/karivarkey"
-linkedin: "https://www.linkedin.com/in/geevarghese-regi-658531214/"
+twitter: karivarkey
+linkedin: geevarghese-regi-658531214
 slack: ""
 joining_date: ""
 role : intern
