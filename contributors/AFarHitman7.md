@@ -3,10 +3,8 @@ name: Rafan Hatim
 title: Contributor
 github: AFarHitman7
 twitter: ""
-linkedin: ""
+linkedin: rafanhatim
 slack: ""
 joining_date: ""
-role : contributor
+role : intern
 ---
-
-Still waiting for this
