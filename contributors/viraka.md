@@ -1,12 +1,11 @@
 ---
 name: M Viraj Prabhu
-title: Contributor
+title: Frontend Lead
 github: viraka
-twitter: ""
-linkedin: ""
+twitter: virajprabhp
+linkedin: mvirajprabhu
 slack: ""
 joining_date: ""
-role : contributor
+role : core
 ---
-
-Still waiting for this
+has a praying ritual before pushig into prod.
