@@ -1,6 +1,51 @@
 {
-  "last_updated": "2024-04-25T07:20:49+00:00",
+  "last_updated": "2024-05-11T16:01:25+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1939",
+      "time": "2024-05-11T16:01:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1939",
+      "text": "Production to dev - server",
+      "turnaround_time": 53
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1939",
+      "time": "2024-05-11T16:00:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1939",
+      "text": "Production to dev - server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1938",
+      "time": "2024-05-11T15:11:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1938",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1938",
+      "time": "2024-05-11T15:11:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1938",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1937",
+      "time": "2024-05-11T15:08:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1937",
+      "text": "Refactor code to handle case when user has no organization",
+      "turnaround_time": 171
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1937",
+      "time": "2024-05-11T15:06:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1937",
+      "text": "Refactor code to handle case when user has no organization"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#1922",

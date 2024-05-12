@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-26T19:57:29+00:00",
+  "last_updated": "2024-05-11T12:56:31+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T12:56:31+00:00",
+      "title": "gtech-mulearn/leaderboard-data#14",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/14#pullrequestreview-2051202259",
+      "text": "create noyal-joseph.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-26T19:57:29+00:00",

@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-04-24T05:35:49+00:00",
+  "last_updated": "2024-05-11T15:56:26+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T15:56:26+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#342",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/342#pullrequestreview-2051226227",
+      "text": "feat: Add my profile"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#340",
+      "time": "2024-05-11T11:25:31+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/issues/340",
+      "text": "Duplicate text in TEMPLATE.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T11:25:24+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#341",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/341#pullrequestreview-2051186241",
+      "text": "fix(template): Delete one duplicate sentence & Capitalise some characters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T11:25:03+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#341",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/341#pullrequestreview-2051185984",
+      "text": "fix(template): Delete one duplicate sentence & Capitalise some characters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T11:23:27+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#341",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/341#pullrequestreview-2051185984",
+      "text": "fix(template): Delete one duplicate sentence & Capitalise some characters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T10:17:43+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#338",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/338#pullrequestreview-2051171201",
+      "text": "Update mohammedamanma@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-11T04:47:03+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#337",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/337#pullrequestreview-2051075560",
+      "text": "Create muhammadfavazvp-2@mulearn.md"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#195",
@@ -46,6 +95,13 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
+      "title": "Adding the missing files to reverted branch",
+      "stale_for": 13,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-05-11T11:55:40+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#10",
+      "time": "2024-05-11T11:55:40+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/10",
+      "text": "added to readme.md file",
+      "turnaround_time": 514
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#10",
+      "time": "2024-05-11T11:47:07+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/10",
+      "text": "added to readme.md file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
