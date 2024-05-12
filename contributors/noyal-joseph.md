@@ -4,7 +4,7 @@ title: Bot Developer
 github: StDensity
 twitter: StDensity
 linkedin: stdestiny
-role: Intern
+role: intern
 ---
 
 A backend developer who loves coding.
