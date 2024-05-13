@@ -1,6 +1,42 @@
 {
-  "last_updated": "2024-05-11T16:01:25+00:00",
+  "last_updated": "2024-05-12T07:49:04+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#1",
+      "time": "2024-05-12T07:49:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/1",
+      "text": "Create 2024-05-12-my-new-test.markdown",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#1",
+      "time": "2024-05-12T07:48:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/1",
+      "text": "Create 2024-05-12-my-new-test.markdown"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1429",
+      "time": "2024-05-12T05:59:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1429",
+      "text": "Dev server",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1426",
+      "time": "2024-05-12T03:44:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1426",
+      "text": "dev merge",
+      "collaborated_with": [
+        "viraka",
+        "Mishalabdullah"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearnbackend#1939",
@@ -3439,13 +3475,13 @@
     {
       "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
       "title": "Old dev",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 175,
+      "stale_for": 176,
       "labels": []
     }
   ],

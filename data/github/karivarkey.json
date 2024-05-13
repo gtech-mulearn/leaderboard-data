@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-05-11T11:45:20+00:00",
+  "last_updated": "2024-05-12T06:11:59+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#9",
+      "time": "2024-05-12T06:11:59+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/9",
+      "text": "Update karivarkey.md",
+      "turnaround_time": 66400
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/leaderboard-data#9",
+      "time": "2024-05-12T06:11:59+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/9",
+      "text": "Update karivarkey.md",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/leaderboard-data#9",

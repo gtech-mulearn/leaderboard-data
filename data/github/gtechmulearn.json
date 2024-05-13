@@ -1,6 +1,58 @@
 {
-  "last_updated": "2024-05-11T19:14:53+00:00",
+  "last_updated": "2024-05-12T07:10:19+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1433",
+      "time": "2024-05-12T07:10:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1433",
+      "text": "ci cd fix",
+      "turnaround_time": 21
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1433",
+      "time": "2024-05-12T07:09:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1433",
+      "text": "ci cd fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1432",
+      "time": "2024-05-12T07:05:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1432",
+      "text": "test",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1432",
+      "time": "2024-05-12T07:04:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1432",
+      "text": "test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1431",
+      "time": "2024-05-12T06:45:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1431",
+      "text": "CI/CD setup",
+      "turnaround_time": 63
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1431",
+      "time": "2024-05-12T06:44:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1431",
+      "text": "CI/CD setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1430",
+      "time": "2024-05-12T06:33:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1430",
+      "text": "upadte pakage.json version"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#1945",

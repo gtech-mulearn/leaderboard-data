@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-05-11T12:05:55+00:00",
+  "last_updated": "2024-05-12T06:10:04+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#14",
+      "time": "2024-05-12T06:10:04+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/14",
+      "text": "create noyal-joseph.md",
+      "turnaround_time": 65050
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/leaderboard-data#14",
+      "time": "2024-05-12T06:10:04+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/14",
+      "text": "create noyal-joseph.md",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/leaderboard-data#14",
@@ -46,13 +64,6 @@
       "text": "Intro"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/14",
-      "title": "create noyal-joseph.md",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
