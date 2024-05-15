@@ -1,6 +1,35 @@
 {
-  "last_updated": "2024-05-13T19:39:01+00:00",
+  "last_updated": "2024-05-14T16:13:38+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-14T16:13:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443",
+      "text": "Mulearn Home Page - Infinite API calls "
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1438",
+      "time": "2024-05-14T03:34:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1438",
+      "text": "Edit user - Mobile number is not required "
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1437",
+      "time": "2024-05-14T03:20:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1437",
+      "text": "Search in College Levels - 500 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#2",
+      "time": "2024-05-14T03:07:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/2",
+      "text": "Update README.md",
+      "turnaround_time": 56466
+    },
     {
       "type": "issue_closed",
       "title": "gtech-mulearn/mulearn#1297",
@@ -914,15 +943,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/2",
-      "title": "Update README.md",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/16",
       "title": "Update Ansanjohny.md",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

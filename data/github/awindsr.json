@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-11-03T10:46:25Z",
+  "last_updated": "2024-05-14T18:43:31+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1444",
+      "time": "2024-05-14T18:43:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1444",
+      "text": "fix(footer): Corrected Instagram link to ensure proper redirection."
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#427",
@@ -16,6 +23,13 @@
       "text": "awindasr@mulearn"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1444",
+      "title": "fix(footer): Corrected Instagram link to ensure proper redirection.",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

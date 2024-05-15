@@ -1,6 +1,89 @@
 {
-  "last_updated": "2024-05-12T07:49:04+00:00",
+  "last_updated": "2024-05-14T15:58:41+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T15:58:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2110595425",
+      "text": "@AFarHitman7 this looks good \ud83d\udc4d \r\n- Change USD to INR\r\n- change enter payment info to donate and make the button same width as the input or bit bigger whichever looks better \r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1952",
+      "time": "2024-05-14T13:25:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1952",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "d34d-5h07",
+        "gtechmulearn",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1070",
+      "time": "2024-05-14T01:51:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1070",
+      "text": "Add organization to Learning circle public page cards"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#897",
+      "time": "2024-05-14T01:50:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/897",
+      "text": "Unexpected Application Error: Falied to Fetch Dynamically Imported Module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#855",
+      "time": "2024-05-14T01:50:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/855",
+      "text": "College levels dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#854",
+      "time": "2024-05-14T01:50:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/854",
+      "text": "Organization dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#852",
+      "time": "2024-05-14T01:50:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/852",
+      "text": "Role dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#850",
+      "time": "2024-05-14T01:49:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/850",
+      "text": "Common"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#427",
+      "time": "2024-05-14T01:49:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/427",
+      "text": "[bug] : template file provided for bulk import is not valid"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1419",
+      "time": "2024-05-14T01:48:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1419#issuecomment-2109124377",
+      "text": "Add screenshots or video for better understanding @Effinjoewilson "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T01:45:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2109121592",
+      "text": "Waiting for UI development, then will proceed to production"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mucampus-events#1",
@@ -3475,13 +3558,13 @@
     {
       "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
       "title": "Old dev",
-      "stale_for": 11,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 176,
+      "stale_for": 178,
       "labels": []
     }
   ],

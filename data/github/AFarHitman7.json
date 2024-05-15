@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-05-12T06:08:54+00:00",
+  "last_updated": "2024-05-14T15:39:33+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T15:39:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2110558368",
+      "text": "Worked on the donation page design, do provide feedback!\n\nhttps://www.figma.com/design/jGzd82sk0Kgju5UYvoOl0E/donation-page?node-id=0-1&t=exCG56WaFYowDvPV-0\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/53a7dd53-1e06-40a8-a4b9-b39cb7d95418)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T15:30:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2110536670",
+      "text": "heywo \ud83d\udc4d "
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/leaderboard-data#15",
@@ -28,7 +42,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/546",
       "title": "Did the tasks specified and opened PR",
-      "stale_for": 31,
+      "stale_for": 33,
       "labels": []
     }
   ],
