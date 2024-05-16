@@ -1,6 +1,99 @@
 {
-  "last_updated": "2024-05-14T15:58:41+00:00",
+  "last_updated": "2024-05-15T16:26:24+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "turnaround_time": 376
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "collaborated_with": [
+        "SHABIN-K",
+        "viraka",
+        "Mishalabdullah",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "gtechmulearn",
+        "Mishalabdullah",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:25:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:20:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1458",
+      "time": "2024-05-15T15:08:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1458",
+      "text": "fix build",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1109",
+      "time": "2024-05-15T12:21:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
+      "text": "Old dev",
+      "turnaround_time": 80051
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1109",
+      "time": "2024-05-15T12:21:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
+      "text": "Old dev",
+      "collaborated_with": [
+        "EkalavyanS",
+        "awindsr",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T07:09:30+00:00",
+      "title": "gtech-mulearn/WikiSyllabus#44",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/44#pullrequestreview-2057094031",
+      "text": "Update CONTRIBUTING.md with new flow of uploading"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1434",
@@ -3556,15 +3649,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
-      "title": "Old dev",
-      "stale_for": 13,
-      "labels": []
-    },
-    {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     }
   ],

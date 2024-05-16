@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-05-11T15:56:26+00:00",
+  "last_updated": "2024-05-15T07:32:08+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T07:32:08+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#353",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/353#pullrequestreview-2057151786",
+      "text": "changed project repository link"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T07:31:19+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#352",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/352#pullrequestreview-2057149377",
+      "text": "smithinthankachan@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-05-11T15:56:26+00:00",
@@ -95,13 +109,6 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
-      "title": "Adding the missing files to reverted branch",
-      "stale_for": 13,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

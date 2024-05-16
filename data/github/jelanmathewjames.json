@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-05-14T13:47:55+00:00",
+  "last_updated": "2024-05-15T16:26:01+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "gtechmulearn",
+        "Mishalabdullah",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1956",
+      "time": "2024-05-15T05:37:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1956",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 49
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1956",
+      "time": "2024-05-15T05:36:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1956",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1955",
+      "time": "2024-05-15T05:36:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1955",
+      "text": "Refactor: launchpad leaderboard api",
+      "turnaround_time": 82
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1955",
+      "time": "2024-05-15T05:34:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1955",
+      "text": "Refactor: launchpad leaderboard api"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#1954",
