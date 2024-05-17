@@ -1,12 +1,12 @@
 ---
 name: vidhya-vjkumar
-title: Contributor
+title: QA Tester
 github: vidhya-vjkumar
 twitter: ""
 linkedin: ""
 slack: ""
 joining_date: ""
-role : contributor
+role : intern
 ---
 
 Still waiting for this
