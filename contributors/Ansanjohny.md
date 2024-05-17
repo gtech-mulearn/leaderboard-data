@@ -1,12 +1,12 @@
 ---
 name: Ansan Johny
-title: Contributor
+title: QA LEAD
 github: Ansanjohny
 twitter: ""
-linkedin: ""
+linkedin: "ansanjohny"
 slack: ""
 joining_date: ""
-role : contributor
+role : core
 ---
 
 Still waiting for this
