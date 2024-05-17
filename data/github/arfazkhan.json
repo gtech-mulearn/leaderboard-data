@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-05-15T21:13:52+00:00",
+  "last_updated": "2024-05-16T17:21:48+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#357",
+      "time": "2024-05-16T17:21:48+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/357",
+      "text": "create arfazkhan@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#354",
+      "time": "2024-05-16T16:27:21+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/354#issuecomment-2115683887",
+      "text": "updated"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#354",
@@ -46,15 +60,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/354",
-      "title": "add arfazkhan@mularn",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/357",
+      "title": "create arfazkhan@mulearn.md",
       "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/30",
       "title": "feat(setup) add basic setup",
-      "stale_for": 179,
+      "stale_for": 180,
       "labels": []
     }
   ],

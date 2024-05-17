@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-05-13T19:04:22+00:00",
+  "last_updated": "2024-05-16T07:05:19+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1476",
+      "time": "2024-05-16T07:05:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1476",
+      "text": "Challenges Page - IoT 101"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1475",
+      "time": "2024-05-16T06:58:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1475",
+      "text": "Challenges page - Bring Every Business Online - Hand cursor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1474",
+      "time": "2024-05-16T06:53:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1474",
+      "text": "Challenges Page - Spelling and spacing issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1472",
+      "time": "2024-05-16T06:05:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1472",
+      "text": "Challenges Page - Typing challenge - Alignment issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1471",
+      "time": "2024-05-16T05:53:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1471",
+      "text": "Challenges Page - No example messages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1470",
+      "time": "2024-05-16T05:33:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1470",
+      "text": "Challenges Page - Error in Districts and Interests API calls"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1468",
+      "time": "2024-05-16T05:26:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1468",
+      "text": "Challenges Page - Introduction to Markdown"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1423",
