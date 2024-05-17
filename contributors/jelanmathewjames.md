@@ -1,12 +1,12 @@
 ---
 name: jelanmathewjames
-title: Contributor
+title: Backend Lead
 github: jelanmathewjames
 twitter: ""
 linkedin: ""
 slack: ""
 joining_date: ""
-role : contributor
+role : core
 ---
 
 Still waiting for this
