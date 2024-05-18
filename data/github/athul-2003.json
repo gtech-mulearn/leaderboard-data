@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-11-04T10:05:38Z",
+  "last_updated": "2024-05-17T14:59:47+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#45",
+      "time": "2024-05-17T14:59:47+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/45",
+      "text": "Added src/WikiSyllabus/KTU/2019_Scheme/S6/CSE/CST306/4_1dynamic_programming.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#430",
@@ -44,6 +51,13 @@
       "text": "Add files via upload"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/45",
+      "title": "Added src/WikiSyllabus/KTU/2019_Scheme/S6/CSE/CST306/4_1dynamic_programming.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

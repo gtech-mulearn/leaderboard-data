@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-05-16T07:05:19+00:00",
+  "last_updated": "2024-05-17T20:25:35+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1483",
+      "time": "2024-05-17T20:25:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1483",
+      "text": "mu-dev-500-login page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1482",
+      "time": "2024-05-17T19:59:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1482",
+      "text": "mu-dev-update profile issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1481",
+      "time": "2024-05-17T19:32:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1481",
+      "text": "mu-dev-400-Gender choice invalid"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1476",

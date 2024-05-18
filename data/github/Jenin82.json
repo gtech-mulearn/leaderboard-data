@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-05-15T16:26:24+00:00",
+  "last_updated": "2024-05-17T05:21:34+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T05:21:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116670664",
+      "text": "@GeorgeET15 if you need help don't hesitate to ask \ud83d\udc4d"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T03:58:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116580232",
+      "text": "@GeorgeET15 what is the status of this issue ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearnbackend#1901",
+      "time": "2024-05-17T03:54:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/issues/1901#issuecomment-2116577333",
+      "text": "@jelanmathewjames we need to start working on Trivial idea project submissions, it should be like an app store or product hunt page were users can see projects, upvote/downvote them, upload their own"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1084",
+      "time": "2024-05-17T03:52:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1084",
+      "text": "Testing dev-server again before production"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1436",
+      "time": "2024-05-17T03:51:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1436#issuecomment-2116575374",
+      "text": "@viraka Why is this in review, is the bug already fixed ? \nWe put issues in review when the bug is fixed and ready for testing\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1083",
+      "time": "2024-05-17T03:49:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1083",
+      "text": "Razorpay integration Frontend"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-17T03:48:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2116573499",
+      "text": "@AFarHitman7 What is the progress on front-end development, could you share expected date of completion\n "
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearn#1462",
@@ -3651,7 +3700,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 179,
+      "stale_for": 181,
       "labels": []
     }
   ],

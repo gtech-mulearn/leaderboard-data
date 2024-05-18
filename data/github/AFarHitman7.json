@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-14T15:39:33+00:00",
+  "last_updated": "2024-05-17T09:32:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-17T09:32:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2117143213",
+      "text": "The header and form is done, and footer is left. Minor styling left for the form.\n\n\nThe front-end functionality has some work, which will be forwarded after the UI is complete.\nI'll try to see if I can finish it by today. At max give me 48 hours.\n\n\n\n\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/4c5cd079-b196-4acd-9183-f93af941482d)\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/95499600-050c-4055-bb4c-21da7c44cdda)\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/334ec10a-146c-4b67-bcb6-bf6ab1f02c10)\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/a15661fb-7174-4c4c-94af-719fa684ff3b)\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/150600333/d16667a5-3922-49ee-9dad-4c0e72f813e7)\n"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1434",
@@ -42,7 +49,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/546",
       "title": "Did the tasks specified and opened PR",
-      "stale_for": 33,
+      "stale_for": 36,
       "labels": []
     }
   ],
