@@ -1,6 +1,35 @@
 {
-  "last_updated": "2024-05-17T18:06:16+00:00",
+  "last_updated": "2024-05-18T14:40:00+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#367",
+      "time": "2024-05-18T14:40:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/367#issuecomment-2118844581",
+      "text": "Do the further steps will be informed??\r\n\r\nOn Sat, 18 May, 2024, 7:02\u202fpm Aaron, ***@***.***> wrote:\r\n\r\n> Merged #367 <https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/367>\r\n> into main.\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/367#event-12855933050>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/BIPVPFAJMLTFKUMPDLMWDLLZC5J7NAVCNFSM6AAAAABH5ODYNGVHI2DSMVQWIX3LMV45UABCJFZXG5LFIV3GK3TUJZXXI2LGNFRWC5DJN5XDWMJSHA2TKOJTGMYDKMA>\r\n> .\r\n> You are receiving this because you authored the thread.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#367",
+      "time": "2024-05-18T13:32:18+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/367",
+      "text": "Create smithinthankachan@mulearn.md",
+      "turnaround_time": 2656
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#367",
+      "time": "2024-05-18T12:48:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/367",
+      "text": "Create smithinthankachan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#364",
+      "time": "2024-05-18T11:28:34+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/364",
+      "text": "Create smithinthankachan@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#360",
@@ -39,21 +68,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/364",
+      "title": "Create smithinthankachan@mulearn",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    },
+    {
       "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/360",
       "title": "smithinthankachan@mulearn.md",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Requested"
+      ]
     },
     {
       "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/359",
       "title": "Update TEMPLATE.md",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Requested"
+      ]
     },
     {
       "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/352",
       "title": "smithinthankachan@mulearn.md",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Requested"
       ]

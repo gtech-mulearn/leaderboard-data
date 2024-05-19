@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-05-18T11:48:55+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#363",
+      "time": "2024-05-18T11:48:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/363",
+      "text": "aswinv-3@mulearn",
+      "turnaround_time": 1281
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#363",
+      "time": "2024-05-18T11:27:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/363",
+      "text": "aswinv-3@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,76 @@
 {
-  "last_updated": "2024-05-17T20:25:35+00:00",
+  "last_updated": "2024-05-18T08:34:52+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T08:34:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490#issuecomment-2118699037",
+      "text": "Level didn't go down from level 3 to level 2 due to the existing issue #1489 . "
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T08:34:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490",
+      "text": "mu-dev-level doesn't decrease"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1498",
+      "time": "2024-05-18T07:37:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1498",
+      "text": "mu-dev-college name overlapped"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1495",
+      "time": "2024-05-18T07:06:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1495",
+      "text": "mu-dev-update profile name issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1491",
+      "time": "2024-05-18T06:46:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1491",
+      "text": "mu-dev- profile sharing - message isn't showing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T06:25:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490",
+      "text": "mu-dev-level doesn't decrease"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1489",
+      "time": "2024-05-18T06:21:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1489",
+      "text": "mu-dev-karma history shows deleted tasks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1488",
+      "time": "2024-05-18T06:08:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1488",
+      "text": "mu-dev-discord flag issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1486",
+      "time": "2024-05-18T05:46:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1486",
+      "text": "mu-dev-karma assigned without discord"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1485",
+      "time": "2024-05-18T05:38:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1485",
+      "text": "mu-dev-phone number issue"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1483",
