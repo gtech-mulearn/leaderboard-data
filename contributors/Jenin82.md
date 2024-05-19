@@ -1,12 +1,12 @@
 ---
 name: Jenin Joseph
-title: Contributor
+title: Tech Lead
 github: Jenin82
 twitter: ""
 linkedin: ""
 slack: ""
 joining_date: ""
-role : contributor
+role : core
 ---
 
 Still waiting for this
