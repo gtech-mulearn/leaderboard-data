@@ -1,6 +1,81 @@
 {
-  "last_updated": "2024-05-18T19:11:06+00:00",
+  "last_updated": "2024-05-19T23:14:23+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#7",
+      "time": "2024-05-19T23:14:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/7",
+      "text": "Update _config.yml",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#7",
+      "time": "2024-05-19T23:14:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/7",
+      "text": "Update _config.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#6",
+      "time": "2024-05-19T23:06:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/6",
+      "text": "Update social.yml",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#6",
+      "time": "2024-05-19T23:06:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/6",
+      "text": "Update social.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#5",
+      "time": "2024-05-19T22:46:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/5",
+      "text": "Create 2024-09-3-Top-100-Coders.md",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#5",
+      "time": "2024-05-19T22:45:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/5",
+      "text": "Create 2024-09-3-Top-100-Coders.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#4",
+      "time": "2024-05-19T22:34:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/4",
+      "text": "New list them build jekyll",
+      "turnaround_time": 23
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#4",
+      "time": "2024-05-19T22:34:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/4",
+      "text": "New list them build jekyll"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/WikiSyllabus#48",
+      "time": "2024-05-19T13:29:30+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/48",
+      "text": "Update CNAME",
+      "turnaround_time": 1690
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#48",
+      "time": "2024-05-19T13:01:21+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/48",
+      "text": "Update CNAME"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mucampus-events#3",

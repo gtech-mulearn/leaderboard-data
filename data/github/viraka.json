@@ -1,6 +1,148 @@
 {
-  "last_updated": "2024-05-15T16:26:24+00:00",
+  "last_updated": "2024-05-19T19:11:42+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1522",
+      "time": "2024-05-19T19:11:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1522",
+      "text": "dev",
+      "turnaround_time": 51
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1522",
+      "time": "2024-05-19T19:11:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1522",
+      "text": "dev",
+      "collaborated_with": [
+        "AFarHitman7"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1522",
+      "time": "2024-05-19T19:10:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1522",
+      "text": "dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1520",
+      "time": "2024-05-19T17:49:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1520",
+      "text": "Dev",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1520",
+      "time": "2024-05-19T17:49:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1520",
+      "text": "Dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1455",
+      "time": "2024-05-19T16:57:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1455",
+      "text": "Old dev",
+      "turnaround_time": 11314
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1455",
+      "time": "2024-05-19T16:57:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1455",
+      "text": "Old dev",
+      "collaborated_with": [
+        "arjuncvinod",
+        "GeorgeET15",
+        "awindsr",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1519",
+      "time": "2024-05-19T16:56:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1519",
+      "text": "Dev",
+      "turnaround_time": 896
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1519",
+      "time": "2024-05-19T16:56:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1519",
+      "text": "Dev",
+      "collaborated_with": [
+        "GeorgeET15"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1519",
+      "time": "2024-05-19T16:41:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1519",
+      "text": "Dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1507",
+      "time": "2024-05-19T14:04:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1507",
+      "text": "dev ",
+      "turnaround_time": 24771
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1507",
+      "time": "2024-05-19T14:04:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1507",
+      "text": "dev ",
+      "collaborated_with": [
+        "AFarHitman7",
+        "arjuncvinod",
+        "karivarkey",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1509",
+      "time": "2024-05-19T12:33:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1509",
+      "text": "Wadhwani Api Loading Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1436",
+      "time": "2024-05-19T08:25:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1436#issuecomment-2119150020",
+      "text": "@Jenin82 My bad, we encountered the build issue while reviewing the pr made for issue. Will take care of moving it to required place."
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1482",
+      "time": "2024-05-19T08:22:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1482#issuecomment-2119149038",
+      "text": "hey @vidhya-vjkumar it'd be amazing if you could also tell the error/error-code . "
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1509",
+      "time": "2024-05-19T08:06:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1509",
+      "text": "Wadhwani Api Loading Issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1507",
+      "time": "2024-05-19T07:11:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1507",
+      "text": "dev server"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1462",
@@ -679,13 +821,6 @@
       "text": "feat: Added Government Orders."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1455",
-      "title": "Old dev",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

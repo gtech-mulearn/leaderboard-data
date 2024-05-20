@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-05-18T06:45:21+00:00",
+  "last_updated": "2024-05-19T16:41:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1482",
+      "time": "2024-05-19T16:41:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1482#issuecomment-2119296133",
+      "text": "@viraka In network tab it shows failed no error code\r\n![image](https://github.com/gtech-mulearn/mulearn/assets/97939405/e033ca2f-cb16-4e97-b34e-5d921ec34d0d)\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1517",
+      "time": "2024-05-19T12:23:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1517",
+      "text": "Decline LC Members from Notification bar "
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1516",
+      "time": "2024-05-19T12:07:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1516",
+      "text": "mu-dev Notification bar - Time showing negative"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1512",
+      "time": "2024-05-19T12:02:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1512#issuecomment-2119211028",
+      "text": "Proper working, no issues "
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1512",
+      "time": "2024-05-19T12:02:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1512",
+      "text": "mu-dev-Learning circles create -only one meet reported in a day -issue"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1487",
