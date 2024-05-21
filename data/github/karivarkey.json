@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-05-19T14:31:57+00:00",
+  "last_updated": "2024-05-20T07:56:38+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1529",
+      "time": "2024-05-20T07:56:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1529",
+      "text": "Fix (manageUsers) : Fixed an issue where phone number would be required error pops up on loosing focus",
+      "turnaround_time": 457
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1529",
+      "time": "2024-05-20T07:49:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1529",
+      "text": "Fix (manageUsers) : Fixed an issue where phone number would be required error pops up on loosing focus"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1439",

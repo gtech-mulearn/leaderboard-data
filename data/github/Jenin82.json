@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-19T16:57:58+00:00",
+  "last_updated": "2024-05-20T16:18:34+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-20T16:18:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2120776114",
+      "text": "@viraka is it pushed to production ?\r\nOr waiting for bug fixes"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1455",
@@ -3761,7 +3768,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 183,
+      "stale_for": 184,
       "labels": []
     }
   ],

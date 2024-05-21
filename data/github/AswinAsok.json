@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-04-13T06:47:23+00:00",
+  "last_updated": "2024-05-20T14:37:28+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#50",
+      "time": "2024-05-20T14:37:28+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/50",
+      "text": "CST 205 Java Notes, Program and Diagrams"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#49",
+      "time": "2024-05-20T14:00:46+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/49",
+      "text": "S3 CST205 Object-Oriented Programming Using Java Notes"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1090",
@@ -576,6 +590,13 @@
       "text": "feature:projectstructuring"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/50",
+      "title": "CST 205 Java Notes, Program and Diagrams",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

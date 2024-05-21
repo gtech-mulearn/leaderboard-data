@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-05-19T17:43:10+00:00",
+  "last_updated": "2024-05-20T13:23:11+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1523",
+      "time": "2024-05-20T13:23:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1523#issuecomment-2120454984",
+      "text": "Ohh, okayyy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1524",
+      "time": "2024-05-20T07:59:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1524",
+      "text": "fix(page-navigation): urls were updated",
+      "turnaround_time": 5140
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1523",
+      "time": "2024-05-20T07:02:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1523#issuecomment-2119804813",
+      "text": "Hi, @vidhya-vjkumar I'm trying to fix the issue, I've made some changes but I'm not able to find task page to create task and check whether it's working. Can you please check it out \"https://github.com/GeorgeET15/mulearn/tree/dev\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1524",
+      "time": "2024-05-20T06:34:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1524",
+      "text": "fix(page-navigation): urls were updated"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1473",
+      "time": "2024-05-20T05:21:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1473#issuecomment-2119689232",
+      "text": "Hey, can I work on this issue\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1475",
+      "time": "2024-05-20T05:19:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1475#issuecomment-2119687548",
+      "text": "The cursor changes on hover"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1479",
