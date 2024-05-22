@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-20T14:37:28+00:00",
+  "last_updated": "2024-05-21T02:55:59+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-21T02:55:59+00:00",
+      "title": "gtech-mulearn/WikiSyllabus#59",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/59#pullrequestreview-2067388755",
+      "text": "Added folders for S6 EEE "
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/WikiSyllabus#50",
@@ -594,7 +601,7 @@
     {
       "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/50",
       "title": "CST 205 Java Notes, Program and Diagrams",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

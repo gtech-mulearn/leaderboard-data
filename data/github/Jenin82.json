@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-05-20T16:18:34+00:00",
+  "last_updated": "2024-05-21T13:54:39+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/WikiSyllabus#47",
+      "time": "2024-05-21T13:54:39+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/47#issuecomment-2122696601",
+      "text": "@Kochouseph26John What is the status of wikisyllabus task and bot in discord ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T13:51:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2122688908",
+      "text": "@althafmu figma link\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T05:53:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2121801483",
+      "text": "@viraka if you need more clarification on the contents of the receipt please do let me know "
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1434",
@@ -3768,7 +3789,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 184,
+      "stale_for": 185,
       "labels": []
     }
   ],
