@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-05-17T18:42:12+00:00",
+  "last_updated": "2024-05-22T14:32:38+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/opengrad-frontend#66",
+      "time": "2024-05-22T14:32:38+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/66",
+      "text": "Dev",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/opengrad-frontend#66",
+      "time": "2024-05-22T14:32:32+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/66",
+      "text": "Dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/opengrad-frontend#65",
+      "time": "2024-05-22T14:32:09+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/65",
+      "text": "update",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/opengrad-frontend#65",
+      "time": "2024-05-22T14:32:02+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/65",
+      "text": "update"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/opengrad-frontend#64",

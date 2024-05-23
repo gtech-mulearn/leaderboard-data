@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-05-20T16:39:32+00:00",
+  "last_updated": "2024-05-22T17:55:33+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1546",
+      "time": "2024-05-22T17:55:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1546",
+      "text": "mu-dev-editing school issue_network status 400"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1545",
+      "time": "2024-05-22T17:49:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1545",
+      "text": "mu-dev-organization_search issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1543",
+      "time": "2024-05-22T17:24:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1543",
+      "text": "mu-dev-organisation_data issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1542",
+      "time": "2024-05-22T16:49:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1542",
+      "text": "mu-dev-managing organization-department data issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1541",
+      "time": "2024-05-22T16:14:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1541",
+      "text": "mu-dev-Department creating issue_network status 500"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1537",
