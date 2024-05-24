@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-05-18T11:29:50+00:00",
+  "last_updated": "2024-05-23T14:27:04+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1961",
+      "time": "2024-05-23T14:27:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1961",
+      "text": "Project CRUD API Endpoints Implementation",
+      "turnaround_time": 10633
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearnbackend#1961",

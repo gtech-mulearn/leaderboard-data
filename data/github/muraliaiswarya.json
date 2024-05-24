@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-22T17:39:20+00:00",
+  "last_updated": "2024-05-23T18:01:59+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1547",
+      "time": "2024-05-23T18:01:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1547",
+      "text": "mu-dev-register page (as a mentor) has no warning message for user for drop down-issue"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1544",

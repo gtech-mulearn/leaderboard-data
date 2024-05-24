@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-05-22T04:03:45+00:00",
+  "last_updated": "2024-05-23T14:02:19+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T14:02:19+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#394",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/394#pullrequestreview-2074078758",
+      "text": "Create binitha@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T14:01:48+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#391",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/391#pullrequestreview-2074077241",
+      "text": "Create reshmakramesh@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T07:51:55+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#393",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/393#pullrequestreview-2073146050",
+      "text": "Create camalintressarodrigues-1@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T07:51:33+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#392",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/392#pullrequestreview-2073144882",
+      "text": "Create binitha@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-23T07:05:01+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#392",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/392#pullrequestreview-2073034108",
+      "text": "Create binitha@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-05-22T04:03:45+00:00",
@@ -345,7 +380,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     }
   ],
