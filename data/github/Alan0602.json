@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-20T15:31:15+00:00",
+  "last_updated": "2024-05-24T14:00:52+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/WikiSyllabus#47",
+      "time": "2024-05-24T14:00:52+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/47#issuecomment-2129612575",
+      "text": "### There is an issue in production:-\n\n#### How to get it:-\n\nKTU\n\u2514\u2500\u2500 2019_scheme\n    \u2514\u2500\u2500 S6\n        \u2514\u2500\u2500 CSE\n            \u2514\u2500\u2500 CST306\n\nProduction Link:- [WikiSyllabus](https://wikisyllabus.mulearn.org/)\n\n### RESULT\n\n\n![Image](https://github.com/gtech-mulearn/WikiSyllabus/assets/100459334/8f4934f4-4eda-44c8-90a7-984cf92dc115)\n\n\nAssign @vishakh-abhayan to solve it\n\n"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/WikiSyllabus#55",
