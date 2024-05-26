@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-05-21T07:52:10+00:00",
+  "last_updated": "2024-05-25T12:57:01+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1550",
+      "time": "2024-05-25T12:57:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1550",
+      "text": "feat(dashboard): Added display of courses"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1549",
+      "time": "2024-05-25T12:12:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1549",
+      "text": "Complete wadhwani dashboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1540",
+      "time": "2024-05-25T06:14:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1540#issuecomment-2130871310",
+      "text": "Let me trying fixing this!!!"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1539",
@@ -116,6 +137,13 @@
       "text": "Pushing my work on learning Github"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1550",
+      "title": "feat(dashboard): Added display of courses",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-05-20T09:50:45+00:00",
+  "last_updated": "2024-05-25T18:37:40+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1535",
+      "time": "2024-05-25T18:37:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1535#issuecomment-2131387536",
+      "text": "@vidhya-vjkumar negative use count is allowed..."
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1535",
+      "time": "2024-05-25T18:37:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1535",
+      "text": "mu-dev- Task Management - Tasks - Negative usage count"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1523",
