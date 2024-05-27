@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-05-21T06:10:09+00:00",
+  "last_updated": "2024-05-26T18:18:37+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1453",
+      "time": "2024-05-26T18:18:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1453#issuecomment-2132305957",
+      "text": "More specifically.. the checkout challenge links are flipped for both the buttons... \n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/14145817/96b23eb4-f2aa-4485-b7e8-c50bad562d2d)\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1468",
+      "time": "2024-05-26T18:12:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1468#issuecomment-2132304195",
+      "text": "More specifically this right? ..\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/14145817/22efa413-38e0-4bd5-b579-673a95bccc0d)\n\n\n\n![Image](https://github.com/gtech-mulearn/mulearn/assets/14145817/4c448042-cf03-458e-911d-691b1006aa88)\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1448",
+      "time": "2024-05-26T18:09:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1448#issuecomment-2132303227",
+      "text": "will fix... seems like terms and conditions and pivacy policy are working on mulearn.org "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1449",
+      "time": "2024-05-26T18:06:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1449#issuecomment-2132302517",
+      "text": "will fix .. has to be https://www.instagram.com/mulearn.official/ instead "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1480",
+      "time": "2024-05-26T17:58:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1480#issuecomment-2132300255",
+      "text": "user-profile/ api is too slow might've to ask jelan\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1440",
+      "time": "2024-05-26T14:31:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1440#issuecomment-2132243397",
+      "text": "> can some one tell which branch is this url\n\nCheckout old-dev"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1540",

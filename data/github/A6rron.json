@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-25T12:52:41+00:00",
+  "last_updated": "2024-05-26T07:41:41+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-26T07:41:41+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#405",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/405#pullrequestreview-2079496354",
+      "text": "Update and rename TEMPLATE.md to muhammedshafeek@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-05-25T12:52:41+00:00",
@@ -422,7 +429,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     }
   ],
