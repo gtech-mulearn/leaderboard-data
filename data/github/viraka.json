@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-26T18:18:37+00:00",
+  "last_updated": "2024-05-27T05:17:19+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1438",
+      "time": "2024-05-27T05:17:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1438#issuecomment-2132659824",
+      "text": "The mobile number does not seem to be passed on to the request data when made null.. same case for all fields.."
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1453",
