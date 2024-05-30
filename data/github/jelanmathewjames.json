@@ -1,6 +1,201 @@
 {
-  "last_updated": "2024-05-28T16:55:43+00:00",
+  "last_updated": "2024-05-29T14:47:46+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1979",
+      "time": "2024-05-29T14:47:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1979",
+      "text": "Dev server",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1979",
+      "time": "2024-05-29T14:47:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1979",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1978",
+      "time": "2024-05-29T14:44:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1978",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1978",
+      "time": "2024-05-29T14:44:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1978",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1977",
+      "time": "2024-05-29T14:43:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1977",
+      "text": "fix: prefetch field",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1977",
+      "time": "2024-05-29T14:43:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1977",
+      "text": "fix: prefetch field"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1976",
+      "time": "2024-05-29T14:14:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1976",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1976",
+      "time": "2024-05-29T14:14:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1976",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1975",
+      "time": "2024-05-29T14:13:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1975",
+      "text": "fix launchpad api",
+      "turnaround_time": 100
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1975",
+      "time": "2024-05-29T14:11:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1975",
+      "text": "fix launchpad api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1974",
+      "time": "2024-05-29T13:49:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1974",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 17
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1974",
+      "time": "2024-05-29T13:49:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1974",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1973",
+      "time": "2024-05-29T13:48:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1973",
+      "text": "refactor: optimize leaderboard API query in launchpad_views.py",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1973",
+      "time": "2024-05-29T13:48:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1973",
+      "text": "refactor: optimize leaderboard API query in launchpad_views.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1972",
+      "time": "2024-05-29T12:46:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1972",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1972",
+      "time": "2024-05-29T12:46:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1972",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1971",
+      "time": "2024-05-29T12:45:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1971",
+      "text": "fix: launchpad leaderboard api",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1971",
+      "time": "2024-05-29T12:45:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1971",
+      "text": "fix: launchpad leaderboard api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1970",
+      "time": "2024-05-29T05:31:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1970",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 66
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1970",
+      "time": "2024-05-29T05:29:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1970",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1969",
+      "time": "2024-05-29T05:28:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1969",
+      "text": "refactor: optimize leaderboard API query in launchpad_views.py",
+      "turnaround_time": 31
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1969",
+      "time": "2024-05-29T05:27:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1969",
+      "text": "refactor: optimize leaderboard API query in launchpad_views.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1968",
+      "time": "2024-05-29T04:54:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1968",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1968",
+      "time": "2024-05-29T04:54:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1968",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1967",
+      "time": "2024-05-29T04:53:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1967",
+      "text": "fix import error",
+      "turnaround_time": 40
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1967",
+      "time": "2024-05-29T04:52:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1967",
+      "text": "fix import error"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#1966",
