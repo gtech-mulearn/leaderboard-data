@@ -1,6 +1,43 @@
 {
-  "last_updated": "2024-03-28T16:09:27+00:00",
+  "last_updated": "2024-06-02T11:59:10+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1560",
+      "time": "2024-06-02T11:59:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1560",
+      "text": "Old Prod",
+      "collaborated_with": [
+        "viraka",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1559",
+      "time": "2024-06-02T11:02:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1559",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1557",
+      "time": "2024-06-02T10:53:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1557",
+      "text": "Refactor: redirection changes in launchpad",
+      "turnaround_time": 1055
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1557",
+      "time": "2024-06-02T10:35:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1557",
+      "text": "Refactor: redirection changes in launchpad"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1089",

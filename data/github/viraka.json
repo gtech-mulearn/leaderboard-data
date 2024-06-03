@@ -1,6 +1,68 @@
 {
-  "last_updated": "2024-05-30T16:54:46+00:00",
+  "last_updated": "2024-06-02T11:59:10+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1560",
+      "time": "2024-06-02T11:59:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1560",
+      "text": "Old Prod",
+      "turnaround_time": 17
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1560",
+      "time": "2024-06-02T11:59:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1560",
+      "text": "Old Prod",
+      "collaborated_with": [
+        "AbhishekNSanthosh",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1560",
+      "time": "2024-06-02T11:58:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1560",
+      "text": "Old dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1559",
+      "time": "2024-06-02T11:02:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1559",
+      "text": "Old dev",
+      "turnaround_time": 233
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1559",
+      "time": "2024-06-02T11:02:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1559",
+      "text": "Old dev",
+      "collaborated_with": [
+        "AbhishekNSanthosh",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1559",
+      "time": "2024-06-02T10:58:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1559",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1558",
+      "time": "2024-06-02T10:40:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1558",
+      "text": "Old production sync",
+      "collaborated_with": [
+        "Jenin82"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearn#1554",
@@ -1085,6 +1147,13 @@
       "text": "feat: Added Government Orders."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/127",
+      "title": "dev-server",
+      "stale_for": 4,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
