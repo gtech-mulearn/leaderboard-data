@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-31T13:08:49+00:00",
+  "last_updated": "2024-06-03T08:38:37+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#431",
+      "time": "2024-06-03T08:38:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/431",
+      "text": "arjunv-7@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#424",
@@ -11,8 +18,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/424",
-      "title": "arjunv-7@mulearn.md",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/431",
+      "title": "arjunv-7@mulearn",
       "stale_for": 0,
       "labels": [
         "Changes Requested"

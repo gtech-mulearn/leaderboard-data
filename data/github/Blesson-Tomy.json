@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-18T06:12:01+00:00",
+  "last_updated": "2024-06-03T03:34:53+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#69",
+      "time": "2024-06-03T03:34:53+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/69",
+      "text": "Add 204 Database Management Systems"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#103",
