@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-06-04T18:26:32+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#447",
+      "time": "2024-06-04T18:26:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/447",
+      "text": " harithakj@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/447",
+      "title": " harithakj@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

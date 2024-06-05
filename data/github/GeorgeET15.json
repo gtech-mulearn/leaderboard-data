@@ -1,6 +1,25 @@
 {
-  "last_updated": "2024-05-31T06:26:42+00:00",
+  "last_updated": "2024-06-04T06:22:02+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1561",
+      "time": "2024-06-04T06:22:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1561",
+      "text": "dev-server",
+      "collaborated_with": [
+        "viraka",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1555",
+      "time": "2024-06-04T06:05:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1555",
+      "text": "feat(DonationSuccess): success page added",
+      "turnaround_time": 85107
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#1555",
@@ -214,13 +233,6 @@
       "text": "added to readme.md file"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1555",
-      "title": "feat(DonationSuccess): success page added",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
