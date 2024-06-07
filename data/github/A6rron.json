@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-06-04T15:39:29+00:00",
+  "last_updated": "2024-06-06T13:01:05+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-06T13:01:05+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#461",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/461#pullrequestreview-2101882749",
+      "text": "aryakp-1@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-06T13:00:41+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#460",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/460#pullrequestreview-2101881874",
+      "text": "Create jubinthomas-1@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "time": "2024-06-06T13:00:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459#issuecomment-2152380055",
+      "text": "Sorry for the delay "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-06T12:59:55+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459#pullrequestreview-2101879963",
+      "text": "Create krishnapm@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-06T12:59:21+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#458",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/458#pullrequestreview-2101878630",
+      "text": "ajayvishnue@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-06T08:42:34+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#454",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/454#pullrequestreview-2101259388",
+      "text": "anaswarac@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-04T15:39:29+00:00",
@@ -621,13 +663,6 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
-      "title": "Adding the missing files to reverted branch",
-      "stale_for": 37,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

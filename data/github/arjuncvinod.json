@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-05T16:49:36+00:00",
+  "last_updated": "2024-06-06T03:40:48+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1562",
+      "time": "2024-06-06T03:40:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1562",
+      "text": "fix(bug):Fixed null mobile number handling and added validation. "
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1438",
@@ -200,13 +207,6 @@
       "text": "Med Reports"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/41",
-      "title": "Med Reports",
-      "stale_for": 199,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

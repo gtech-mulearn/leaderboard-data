@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-06-04T06:22:02+00:00",
+  "last_updated": "2024-06-06T11:41:46+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1564",
+      "time": "2024-06-06T11:41:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1564",
+      "text": "prod",
+      "collaborated_with": [
+        "viraka",
+        "karivarkey"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1561",

@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-06-02T11:59:10+00:00",
+  "last_updated": "2024-06-06T11:34:27+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1563",
+      "time": "2024-06-06T11:34:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1563",
+      "text": "prod to dev-server",
+      "collaborated_with": [
+        "viraka",
+        "AswinAsok"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1560",
@@ -3860,13 +3871,6 @@
       "text": "hotfix(): Filter btn cursor pointer"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
-      "title": "contributions",
-      "stale_for": 197,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
