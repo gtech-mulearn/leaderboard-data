@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-06-06T11:34:27+00:00",
+  "last_updated": "2024-06-07T14:22:29+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2023",
+      "time": "2024-06-07T14:22:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2023",
+      "text": "Merge dev-server to dev",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "Kochouseph26John"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1563",
@@ -3871,6 +3882,13 @@
       "text": "hotfix(): Filter btn cursor pointer"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
+      "title": "contributions",
+      "stale_for": 202,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

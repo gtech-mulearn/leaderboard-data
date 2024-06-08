@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-06-06T13:01:05+00:00",
+  "last_updated": "2024-06-07T09:02:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#471",
+      "time": "2024-06-07T09:02:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/471#issuecomment-2154408852",
+      "text": "please dont make changes in template.md and in readme files, closing this pr please do a pr with your profile only"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-07T09:00:01+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#470",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/470#pullrequestreview-2104029916",
+      "text": "adding abhisheks-14@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-07T08:59:25+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#469",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/469#pullrequestreview-2104028667",
+      "text": "Create rainahenry@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#468",
+      "time": "2024-06-07T08:59:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/468#issuecomment-2154402648",
+      "text": "you have made changes in other's profile files so closing this pr."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-07T08:57:37+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#465",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/465#pullrequestreview-2104024981",
+      "text": "Create niyaskhans@muid.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-07T08:54:16+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#464",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/464#pullrequestreview-2104017338",
+      "text": "ashnaa@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-07T08:53:43+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#463",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/463#pullrequestreview-2104016188",
+      "text": "rakeshnarayanancn@mulearn"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-06T13:01:05+00:00",
@@ -663,6 +712,13 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
+      "title": "Adding the missing files to reverted branch",
+      "stale_for": 40,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
