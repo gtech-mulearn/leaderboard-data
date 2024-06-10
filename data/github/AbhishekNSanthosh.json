@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-06-02T11:59:10+00:00",
+  "last_updated": "2024-06-09T11:54:38+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1566",
+      "time": "2024-06-09T11:54:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1566",
+      "text": "refactor(launchpad): fixed issue in JOIN NOW button",
+      "turnaround_time": 411
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1566",
+      "time": "2024-06-09T11:47:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1566",
+      "text": "refactor(launchpad): fixed issue in JOIN NOW button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1565",
+      "time": "2024-06-09T11:41:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1565",
+      "text": "refactor(launchpad): changes in launchpad steps",
+      "turnaround_time": 17441
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1565",
+      "time": "2024-06-09T06:50:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1565",
+      "text": "refactor(launchpad): changes in launchpad steps"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1560",
