@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-06-08T16:49:41+00:00",
+  "last_updated": "2024-06-10T08:25:01+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:25:01+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#495",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/495#pullrequestreview-2107040766",
+      "text": "fayizamp@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:24:34+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#494",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/494#pullrequestreview-2107038839",
+      "text": "Create Anirudhshaji@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:23:32+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#493",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/493#pullrequestreview-2107035593",
+      "text": "Create johnpiusthayiparampil@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:23:03+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#492",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/492#pullrequestreview-2107034133",
+      "text": "Create gauthamkrishnap@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:22:31+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#491",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/491#pullrequestreview-2107032399",
+      "text": "Create ericbinukoshy@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-10T08:21:46+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#490",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/490#pullrequestreview-2107030360",
+      "text": "Create vyshnavkk@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-08T16:49:41+00:00",
@@ -807,7 +849,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 41,
+      "stale_for": 43,
       "labels": []
     }
   ],
