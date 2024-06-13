@@ -1,0 +1,23 @@
+{
+  "last_updated": "2024-06-12T15:03:24+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#515",
+      "time": "2024-06-12T15:03:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/515",
+      "text": "Update Readme.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/515",
+      "title": "Update Readme.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}
