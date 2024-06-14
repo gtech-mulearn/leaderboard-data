@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-09T13:23:36+00:00",
+  "last_updated": "2024-06-13T23:58:00+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/Top-100-Coders#594",
+      "time": "2024-06-13T23:58:00+00:00",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/issues/594",
+      "text": "Smart farming systems using ai "
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-09T13:23:36+00:00",
