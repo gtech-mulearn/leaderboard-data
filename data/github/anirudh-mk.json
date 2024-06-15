@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-04-25T07:22:12+00:00",
+  "last_updated": "2024-06-14T15:54:02+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2056",
+      "time": "2024-06-14T15:54:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2056",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2055",
+      "time": "2024-06-14T15:50:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2055",
+      "text": "launchpad listing",
+      "collaborated_with": [
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2054",
+      "time": "2024-06-14T14:39:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2054",
+      "text": "feat(launchpad details)",
+      "turnaround_time": 4248
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2054",
+      "time": "2024-06-14T13:28:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2054",
+      "text": "feat(launchpad details)"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#1923",

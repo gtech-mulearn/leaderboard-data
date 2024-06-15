@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-06-13T23:58:00+00:00",
+  "last_updated": "2024-06-14T17:26:56+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-14T17:26:56+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#544",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/544#pullrequestreview-2118918162",
+      "text": "Portfolio"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-14T17:26:31+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#543",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/543#pullrequestreview-2118917404",
+      "text": "ericbinukoshy@mulearn.md"
+    },
     {
       "type": "issue_closed",
       "title": "gtech-mulearn/Top-100-Coders#594",
