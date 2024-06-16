@@ -1,6 +1,141 @@
 {
-  "last_updated": "2024-06-12T07:23:48+00:00",
+  "last_updated": "2024-06-15T15:55:04+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2065",
+      "time": "2024-06-15T15:55:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2065",
+      "text": "Dev server",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2065",
+      "time": "2024-06-15T15:54:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2065",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2064",
+      "time": "2024-06-15T15:48:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2064",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2064",
+      "time": "2024-06-15T15:48:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2064",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2063",
+      "time": "2024-06-15T15:47:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2063",
+      "text": "Update serializers.py",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2063",
+      "time": "2024-06-15T15:46:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2063",
+      "text": "Update serializers.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2062",
+      "time": "2024-06-15T15:43:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2062",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2062",
+      "time": "2024-06-15T15:43:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2062",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2061",
+      "time": "2024-06-15T15:43:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2061",
+      "text": "fix leaderboard serializer",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2061",
+      "time": "2024-06-15T15:43:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2061",
+      "text": "fix leaderboard serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2060",
+      "time": "2024-06-15T15:39:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2060",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2060",
+      "time": "2024-06-15T15:39:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2060",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2059",
+      "time": "2024-06-15T15:38:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2059",
+      "text": "Update serializers.py",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2059",
+      "time": "2024-06-15T15:38:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2059",
+      "text": "Update serializers.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2058",
+      "time": "2024-06-15T15:35:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2058",
+      "text": "Merge dev to dev-server",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2058",
+      "time": "2024-06-15T15:35:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2058",
+      "text": "Merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2057",
+      "time": "2024-06-15T15:31:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2057",
+      "text": "update launchpad leaderboard serializer",
+      "turnaround_time": 72
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2057",
+      "time": "2024-06-15T15:30:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2057",
+      "text": "update launchpad leaderboard serializer"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearnbackend#2053",

@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-06-14T17:53:30+00:00",
+  "last_updated": "2024-06-15T15:13:48+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T15:13:48+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#555",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/555#pullrequestreview-2120507718",
+      "text": "Create naveensanthosh@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T15:13:21+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#556",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/556#pullrequestreview-2120507227",
+      "text": "Create basilashrafn@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T11:29:58+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#518",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/518#pullrequestreview-2120353962",
+      "text": "Update manukirans@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T11:29:08+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#550",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/550#pullrequestreview-2120352990",
+      "text": "leanamerinison@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T07:18:47+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#548",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/548#pullrequestreview-2120244378",
+      "text": "naeemaziyad@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-15T07:18:23+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#547",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/547#pullrequestreview-2120243713",
+      "text": "Create riyakvarghese@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-14T17:53:30+00:00",
@@ -1069,7 +1111,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "changes needed"
       ]
