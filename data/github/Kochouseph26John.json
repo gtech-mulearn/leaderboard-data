@@ -1,6 +1,56 @@
 {
-  "last_updated": "2024-06-14T15:07:08+00:00",
+  "last_updated": "2024-06-17T16:53:18+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2076",
+      "time": "2024-06-17T16:53:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2076",
+      "text": "Prod: feat: Launchpad Dashboard",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2076",
+      "time": "2024-06-17T16:53:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2076",
+      "text": "Prod: feat: Launchpad Dashboard",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2076",
+      "time": "2024-06-17T16:53:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2076",
+      "text": "Prod: feat: Launchpad Dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2075",
+      "time": "2024-06-17T16:50:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2075",
+      "text": " devserver: feat: Launchpad Dashboard",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2075",
+      "time": "2024-06-17T16:50:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2075",
+      "text": " devserver: feat: Launchpad Dashboard",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2075",
+      "time": "2024-06-17T16:50:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2075",
+      "text": " devserver: feat: Launchpad Dashboard"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#536",

@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-06-16T08:14:09+00:00",
+  "last_updated": "2024-06-17T08:41:23+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#620",
+      "time": "2024-06-17T08:41:23+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/620",
+      "text": " Task 1: GitHub Basics anugrahp@mulearn",
+      "turnaround_time": 1635
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Github-Enablment-Task#620",
@@ -31,13 +39,6 @@
       "text": "Profile update of anugrahp@mulearn.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/620",
-      "title": " Task 1: GitHub Basics anugrahp@mulearn",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
