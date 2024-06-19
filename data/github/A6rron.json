@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-06-17T05:09:48+00:00",
+  "last_updated": "2024-06-18T17:22:54+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-18T17:22:54+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#584",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/584#pullrequestreview-2126101143",
+      "text": "Update profile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-18T17:22:09+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#583",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/583#pullrequestreview-2126099663",
+      "text": "create lithinmonss@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#580",
+      "time": "2024-06-18T12:04:13+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/580",
+      "text": "Revert \"Create lithinmonss@mulearn\"",
+      "turnaround_time": 13466
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#580",
+      "time": "2024-06-18T08:19:48+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/580",
+      "text": "Revert \"Create lithinmonss@mulearn\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-18T08:19:21+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#579",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/579#pullrequestreview-2124843394",
+      "text": "Create lithinmonss@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-18T08:18:52+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#578",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/578#pullrequestreview-2124842346",
+      "text": "abijiths-1@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-17T05:09:48+00:00",
@@ -1174,7 +1217,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "changes needed"
       ]
