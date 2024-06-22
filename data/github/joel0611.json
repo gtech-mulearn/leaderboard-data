@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-10-27T18:13:49Z",
+  "last_updated": "2024-06-21T10:14:44+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#603",
+      "time": "2024-06-21T10:14:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/603",
+      "text": "Create joelbasilkurian@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#363",
@@ -30,6 +37,15 @@
       "text": "Update joelbasilkurian@mulearn.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/603",
+      "title": "Create joelbasilkurian@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

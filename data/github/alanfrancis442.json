@@ -1,6 +1,32 @@
 {
-  "last_updated": "2024-05-26T18:19:43+00:00",
+  "last_updated": "2024-06-21T16:11:15+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1570",
+      "time": "2024-06-21T16:11:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1570",
+      "text": "devserver",
+      "collaborated_with": [
+        "arjuncvinod",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1568",
+      "time": "2024-06-21T16:09:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1568",
+      "text": "feat(Trivialideas): Added new pages for Trivial\u00a0Ideas",
+      "turnaround_time": 17307
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1568",
+      "time": "2024-06-21T11:21:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1568",
+      "text": "feat(Trivialideas): Added new pages for Trivial\u00a0Ideas"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1457",
@@ -107,13 +133,6 @@
       "text": "Learned basics of github"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1551",
-      "title": "Old dev",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
