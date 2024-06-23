@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-05-18T10:20:16+00:00",
+  "last_updated": "2024-06-22T09:12:44+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2110",
+      "time": "2024-06-22T09:12:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2110",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2106",
+      "time": "2024-06-22T09:01:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2106",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2105",
+      "time": "2024-06-22T09:00:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2105",
+      "text": "\"fix: Donation Bug Fix \"",
+      "turnaround_time": 1249
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2105",
+      "time": "2024-06-22T08:39:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2105",
+      "text": "\"fix: Donation Bug Fix \""
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearnbackend#1959",
