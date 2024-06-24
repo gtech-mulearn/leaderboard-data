@@ -1,6 +1,28 @@
 {
-  "last_updated": "2024-06-22T16:48:14+00:00",
+  "last_updated": "2024-06-23T07:09:14+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-23T07:09:14+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#613",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/613#pullrequestreview-2134145806",
+      "text": "Create riyanps@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/MOP#1",
+      "time": "2024-06-23T06:29:07+00:00",
+      "link": "https://github.com/gtech-mulearn/MOP/pull/1",
+      "text": "Main",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/MOP#1",
+      "time": "2024-06-23T06:28:58+00:00",
+      "link": "https://github.com/gtech-mulearn/MOP/pull/1",
+      "text": "Main"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#608",

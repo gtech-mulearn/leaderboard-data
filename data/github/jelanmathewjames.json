@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-06-22T09:12:44+00:00",
+  "last_updated": "2024-06-23T15:35:50+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2112",
+      "time": "2024-06-23T15:35:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2112",
+      "text": "Dev",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2112",
+      "time": "2024-06-23T15:35:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2112",
+      "text": "Dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2111",
+      "time": "2024-06-23T15:34:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2111",
+      "text": "Merge",
+      "turnaround_time": 110
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2111",
+      "time": "2024-06-23T15:32:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2111",
+      "text": "Merge"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearnbackend#2110",
