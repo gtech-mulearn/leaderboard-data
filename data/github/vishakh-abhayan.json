@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-06-23T07:09:14+00:00",
+  "last_updated": "2024-06-24T17:58:51+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/WikiSyllabus#73",
+      "time": "2024-06-24T17:58:51+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/73",
+      "text": "Create CST306",
+      "turnaround_time": 44
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#73",
+      "time": "2024-06-24T17:58:08+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/73",
+      "text": "Create CST306"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-23T07:09:14+00:00",

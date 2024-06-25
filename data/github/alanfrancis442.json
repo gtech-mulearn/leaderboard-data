@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-21T16:11:15+00:00",
+  "last_updated": "2024-06-24T07:34:17+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1571",
+      "time": "2024-06-24T07:34:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1571",
+      "text": "fix(TrivialIdeas): mobile view font size"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1570",
