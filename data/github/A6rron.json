@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-06-24T16:45:35+00:00",
+  "last_updated": "2024-06-25T15:06:13+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-25T15:06:13+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#643",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/643#pullrequestreview-2138979790",
+      "text": "Update riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-25T15:05:46+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#642",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/642#pullrequestreview-2138978629",
+      "text": "Create sreelakshmis@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-25T15:05:01+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#641",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/641#pullrequestreview-2138976653",
+      "text": "vishnuraj@mulearn"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-24T16:45:35+00:00",
@@ -1434,7 +1455,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
       "title": "Adding the missing files to reverted branch",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "changes needed"
       ]
