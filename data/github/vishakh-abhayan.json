@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-24T17:58:51+00:00",
+  "last_updated": "2024-06-27T06:55:59+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T06:55:59+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#687",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/687#pullrequestreview-2144415362",
+      "text": "Create ashwinkrishnam@mulearn.md"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/WikiSyllabus#73",

@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-06-26T15:18:11+00:00",
+  "last_updated": "2024-06-27T15:43:57+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T15:43:57+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#702",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/702#pullrequestreview-2145794175",
+      "text": "Create anandukrishnavr@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T15:43:32+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#700",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/700#pullrequestreview-2145793138",
+      "text": "Create joyaljoseph-2@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T15:43:10+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#699",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/699#pullrequestreview-2145792311",
+      "text": "Create rubyaj24@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T15:42:47+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#706",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/706#pullrequestreview-2145791427",
+      "text": "Create linchurachelmani@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-27T15:42:27+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#695",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/695#pullrequestreview-2145790717",
+      "text": "Update ashinsabumathew@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-26T15:18:11+00:00",
@@ -1556,15 +1591,6 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/590",
-      "title": "Adding the missing files to reverted branch",
-      "stale_for": 15,
-      "labels": [
-        "changes needed"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
