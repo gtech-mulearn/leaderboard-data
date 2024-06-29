@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-06-28T18:05:09+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#783",
+      "time": "2024-06-28T18:05:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/783",
+      "text": "nasifswalah@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/783",
+      "title": "nasifswalah@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

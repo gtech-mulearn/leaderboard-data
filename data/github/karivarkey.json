@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-06-06T11:41:46+00:00",
+  "last_updated": "2024-06-28T13:19:01+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#750",
+      "time": "2024-06-28T13:19:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/750",
+      "text": "geevarghese@mulearn.md",
+      "turnaround_time": 22
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#750",
+      "time": "2024-06-28T13:18:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/750",
+      "text": "geevarghese@mulearn.md"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1564",
