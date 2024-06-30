@@ -1,6 +1,64 @@
 {
-  "last_updated": "2023-11-12T09:54:47Z",
+  "last_updated": "2024-06-29T15:59:35+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#833",
+      "time": "2024-06-29T15:59:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/833",
+      "text": "Sherhinpp@mulearn.md",
+      "turnaround_time": 137
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#833",
+      "time": "2024-06-29T15:57:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/833",
+      "text": "Sherhinpp@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#826",
+      "time": "2024-06-29T15:25:31+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/826",
+      "text": "Updated sherhin",
+      "turnaround_time": 94
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#826",
+      "time": "2024-06-29T15:23:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/826",
+      "text": "Updated sherhin"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#822",
+      "time": "2024-06-29T15:22:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/822#issuecomment-2198232617",
+      "text": "Changes done"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#822",
+      "time": "2024-06-29T15:22:20+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/822#issuecomment-2198231889",
+      "text": "Changes done "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#822",
+      "time": "2024-06-29T15:22:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/822#issuecomment-2198231557",
+      "text": "Closed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#822",
+      "time": "2024-06-29T15:13:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/822",
+      "text": "Sherhinpp@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#463",
