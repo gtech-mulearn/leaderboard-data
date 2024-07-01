@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-06-29T07:19:19+00:00",
+  "last_updated": "2024-06-30T16:22:30+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-30T16:22:30+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#945",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/945#pullrequestreview-2150080112",
+      "text": "Create anakhaprasadt@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-30T16:21:44+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#944",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/944#pullrequestreview-2150079996",
+      "text": "Create sonajohn@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-30T16:21:02+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#943",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/943#pullrequestreview-2150079898",
+      "text": "Update MuhammedSajal@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-30T15:56:03+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#941",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/941#pullrequestreview-2150076240",
+      "text": "Create savadkn@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-30T15:55:19+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#940",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/940#pullrequestreview-2150076150",
+      "text": "Create chaithanyarajpv@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-29T07:19:19+00:00",
