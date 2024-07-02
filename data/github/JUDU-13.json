@@ -1,6 +1,51 @@
 {
-  "last_updated": "2024-06-30T18:50:49+00:00",
+  "last_updated": "2024-07-01T18:17:55+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1133",
+      "time": "2024-07-01T18:17:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1133",
+      "text": "Revert \"Create aswinr-2@mulearn.md\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1133",
+      "time": "2024-07-01T18:17:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1133",
+      "text": "Revert \"Create aswinr-2@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1132",
+      "time": "2024-07-01T18:17:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1132",
+      "text": "Revert \"Revert \"Create aswinr-2@mulearn.md\"\"",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1132",
+      "time": "2024-07-01T18:17:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1132",
+      "text": "Revert \"Revert \"Create aswinr-2@mulearn.md\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1130",
+      "time": "2024-07-01T18:15:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1130",
+      "text": "Revert \"Create aswinr-2@mulearn.md\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1130",
+      "time": "2024-07-01T18:15:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1130",
+      "text": "Revert \"Create aswinr-2@mulearn.md\""
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#981",

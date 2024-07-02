@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-06-29T15:13:30+00:00",
+  "last_updated": "2024-07-01T16:58:53+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1098",
+      "time": "2024-07-01T16:58:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1098#issuecomment-2200632353",
+      "text": "Provide more details in your portfolio"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1064",
+      "time": "2024-07-01T16:00:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1064#issuecomment-2200530112",
+      "text": "Follow the steps correctly. Dont update the template.md file instead copy it and paste it in a file named your muid.md inside profiles folder\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#821",

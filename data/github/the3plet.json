@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-10-24T06:53:33Z",
+  "last_updated": "2024-07-01T18:29:19+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1136",
+      "time": "2024-07-01T18:29:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1136",
+      "text": "Profile Creation"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#47",
@@ -443,6 +450,13 @@
       "text": "Footer fix "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1136",
+      "title": "Profile Creation",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
