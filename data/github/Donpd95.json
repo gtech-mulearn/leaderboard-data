@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-01T18:11:51+00:00",
+  "last_updated": "2024-07-03T06:40:04+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1157",
+      "time": "2024-07-03T06:40:04+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1157",
+      "text": "Donpd@mulear.md"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#1114",
@@ -17,6 +24,13 @@
       "text": "Create Donpd@mulearn.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1157",
+      "title": "Donpd@mulear.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
