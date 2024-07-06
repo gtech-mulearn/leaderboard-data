@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-07-02T10:33:56+00:00",
+  "last_updated": "2024-07-05T17:13:16+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1573",
+      "time": "2024-07-05T17:13:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1573",
+      "text": "DevServer",
+      "turnaround_time": 21051
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1573",
+      "time": "2024-07-05T17:13:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1573",
+      "text": "DevServer",
+      "collaborated_with": [
+        "alanfrancis442"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1575",
@@ -1345,15 +1363,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1573",
-      "title": "DevServer",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
       "link": "https://github.com/gtech-mulearn/learningcircle/pull/127",
       "title": "dev-server",
-      "stale_for": 34,
+      "stale_for": 37,
       "labels": []
     }
   ],

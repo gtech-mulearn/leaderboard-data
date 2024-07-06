@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-06-02T09:44:18+00:00",
+  "last_updated": "2024-07-05T16:34:49+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1282",
+      "time": "2024-07-05T16:34:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1282",
+      "text": "InternTask2_Vivek_2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1289",
+      "time": "2024-07-05T16:34:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1289",
+      "text": "InternTask1_Shreerag Namboothiri K H_42"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1137",
+      "time": "2024-07-05T16:32:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1137",
+      "text": "InternTask1_Feba_Najim_Issue4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1135",
+      "time": "2024-07-05T16:32:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1135",
+      "text": "InternTask1_Afreen_Poly_Issue2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1124",
+      "time": "2024-07-05T16:32:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1124",
+      "text": "InterTask1_Ahamed_Shakir_issue2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1580",
+      "time": "2024-07-05T13:48:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1580",
+      "text": "Registration - Full Name and Edit profile - First name and Last name"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1579",
+      "time": "2024-07-05T13:39:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1579",
+      "text": "Profile - Image upload failed and restrict pdf files upload in image section "
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearn#1556",

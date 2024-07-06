@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-07-04T16:30:45+00:00",
+  "last_updated": "2024-07-05T17:27:25+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1582",
+      "time": "2024-07-05T17:27:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1582",
+      "text": "feat (Calendar):use styled calendar for airtable",
+      "turnaround_time": 254
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1582",
+      "time": "2024-07-05T17:23:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1582",
+      "text": "feat (Calendar):use styled calendar for airtable"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#1578",
@@ -203,13 +218,6 @@
       "text": "Pushing my work on learning Github"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1578",
-      "title": "(feat) : added styled calendar instead of airtable",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

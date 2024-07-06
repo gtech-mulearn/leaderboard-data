@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-06-29T08:00:16+00:00",
+  "last_updated": "2024-07-05T17:13:16+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1573",
+      "time": "2024-07-05T17:13:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1573",
+      "text": "DevServer",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1581",
+      "time": "2024-07-05T17:09:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1581",
+      "text": "fix(Donation): pdf icon changed",
+      "turnaround_time": 4680
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1581",
+      "time": "2024-07-05T15:51:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1581",
+      "text": "fix(Donation): pdf icon changed"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#795",
