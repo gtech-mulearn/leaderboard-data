@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-07-05T11:17:12+00:00",
+  "last_updated": "2024-07-06T22:45:31+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2149",
+      "time": "2024-07-06T22:45:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2149",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2147",
+      "time": "2024-07-06T22:42:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2147",
+      "text": "feature: user org transfer api",
+      "turnaround_time": 12873
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2147",
+      "time": "2024-07-06T19:07:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2147",
+      "text": "feature: user org transfer api"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2144",
+      "time": "2024-07-06T14:09:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2144",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearnbackend#2121",

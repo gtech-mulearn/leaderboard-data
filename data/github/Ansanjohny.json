@@ -1,6 +1,524 @@
 {
-  "last_updated": "2024-07-05T16:34:49+00:00",
+  "last_updated": "2024-07-06T16:19:52+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1150",
+      "time": "2024-07-06T16:19:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1150",
+      "text": "InternTask1_Vivek_4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1114",
+      "time": "2024-07-06T16:19:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1114",
+      "text": "InternTask1_Vivek_3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1156",
+      "time": "2024-07-06T16:18:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1156",
+      "text": "InternTask1_Vivek_6"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1157",
+      "time": "2024-07-06T16:17:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1157",
+      "text": "InternTask1_Vivek_7"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1158",
+      "time": "2024-07-06T16:17:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1158",
+      "text": "InternTask1_Vivek_8"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1159",
+      "time": "2024-07-06T16:17:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1159",
+      "text": "InternTask1_Vivek_9"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1160",
+      "time": "2024-07-06T16:16:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1160",
+      "text": "InternTask1_Vivek_10"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1169",
+      "time": "2024-07-06T16:16:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1169",
+      "text": "InternTask1_Chris Alex_Issue3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1170",
+      "time": "2024-07-06T16:15:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1170",
+      "text": "InterTask1_Chris Alex_Issue4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1171",
+      "time": "2024-07-06T16:15:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1171",
+      "text": "InternTask1_Chris Alex_Issue5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1173",
+      "time": "2024-07-06T16:15:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1173",
+      "text": "InternTask1_Chris Alex_Issue7"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1174",
+      "time": "2024-07-06T16:15:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1174",
+      "text": "InternTask1_Chris Alex_Issue8"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1182",
+      "time": "2024-07-06T16:14:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1182",
+      "text": "InternTask2_Chris Alex_Issue4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1162",
+      "time": "2024-07-06T16:14:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1162",
+      "text": "InternTask1_Vivek_12"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1163",
+      "time": "2024-07-06T16:14:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1163",
+      "text": "InternTask1_Vivek_13"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1164",
+      "time": "2024-07-06T16:12:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1164",
+      "text": "InternTask1_Jayadev_B_S_1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1165",
+      "time": "2024-07-06T16:12:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1165",
+      "text": "InternTask1_Jayadev_B_S_2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1166",
+      "time": "2024-07-06T16:12:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1166",
+      "text": "InternTask1_Jayadev_B_S_3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1167",
+      "time": "2024-07-06T16:12:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1167",
+      "text": "InternTask1_Chris Alex_Issue1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1168",
+      "time": "2024-07-06T16:12:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1168",
+      "text": "InternTask1_Chris Alex_Issue2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1180",
+      "time": "2024-07-06T16:01:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1180",
+      "text": "InternTask2_Chris Alex_Issue2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1181",
+      "time": "2024-07-06T16:01:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1181",
+      "text": "InternTask2_Chris Alex_Issue3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1183",
+      "time": "2024-07-06T16:01:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1183",
+      "text": "InternTask2_Chris Alex_Issue5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1185",
+      "time": "2024-07-06T16:00:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1185",
+      "text": "InternTask2_Chris Alex_Issue6"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1187",
+      "time": "2024-07-06T16:00:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1187",
+      "text": "InternTask1_Jayadev_B_S_4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1188",
+      "time": "2024-07-06T16:00:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1188",
+      "text": "InternTask1_Jayadev_B_S_5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1189",
+      "time": "2024-07-06T16:00:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1189",
+      "text": "InternTask1_Jayadev_B_S_6"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1190",
+      "time": "2024-07-06T16:00:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1190",
+      "text": "InternTask1_Jayadev_B_S_7"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1191",
+      "time": "2024-07-06T16:00:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1191",
+      "text": "InternTask1_Jayadev_B_S_8"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1192",
+      "time": "2024-07-06T16:00:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1192",
+      "text": "InternTask1_Jayadev_B_S_9"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1193",
+      "time": "2024-07-06T16:00:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1193",
+      "text": "InternTask1_Jayadev_B_S_10"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1194",
+      "time": "2024-07-06T16:00:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1194",
+      "text": "InternTask1_Aiswarya M_01"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1195",
+      "time": "2024-07-06T16:00:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1195",
+      "text": "InternTask1_Jayadev_B_S_11"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1196",
+      "time": "2024-07-06T16:00:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1196",
+      "text": "InternTask1_Aiswarya M_02"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1197",
+      "time": "2024-07-06T15:59:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1197",
+      "text": "InternTask1_Aiswarya M_03"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1198",
+      "time": "2024-07-06T15:59:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1198",
+      "text": "InternTask1_Jayadev_B_S_12"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1199",
+      "time": "2024-07-06T15:59:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1199",
+      "text": "InternTask1_Jayadev_B_S_13"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1200",
+      "time": "2024-07-06T15:59:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1200",
+      "text": "InternTask1_Aiswarya M_04"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1201",
+      "time": "2024-07-06T15:59:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1201",
+      "text": "InternTask1_Aiswarya M_05"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1203",
+      "time": "2024-07-06T15:59:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1203",
+      "text": "InternTask1_Aiswarya M_06"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1205",
+      "time": "2024-07-06T15:59:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1205",
+      "text": "InternTask1_Aiswarya M_08"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1208",
+      "time": "2024-07-06T15:59:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1208",
+      "text": "InternTask1_Aiswarya M_11"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1209",
+      "time": "2024-07-06T15:59:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1209",
+      "text": "InternTask1_Aiswarya M_12"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1210",
+      "time": "2024-07-06T15:59:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1210",
+      "text": "InternTask1_Aiswarya M_13"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1211",
+      "time": "2024-07-06T15:58:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1211",
+      "text": "InternTask1_Vivek_14"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1212",
+      "time": "2024-07-06T15:58:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1212",
+      "text": "InternTask1_Aiswarya M_14"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1213",
+      "time": "2024-07-06T15:58:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1213",
+      "text": "InternTask1_Vivek_15"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1214",
+      "time": "2024-07-06T15:58:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1214",
+      "text": "InternTask1_Vivek_16"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1215",
+      "time": "2024-07-06T15:58:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1215",
+      "text": "InternTask1_Vivek_17"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1217",
+      "time": "2024-07-06T15:58:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1217",
+      "text": "InternTask1_Vivek_19"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1218",
+      "time": "2024-07-06T15:58:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1218",
+      "text": "InternTask1_Vivek_20"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1221",
+      "time": "2024-07-06T15:55:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1221",
+      "text": "InternTask1_Aiswarya M_17"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1222",
+      "time": "2024-07-06T15:55:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1222",
+      "text": "InternTask1_Aiswarya M_18"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1223",
+      "time": "2024-07-06T15:55:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1223",
+      "text": "InternTask1_Aiswarya M_19"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1224",
+      "time": "2024-07-06T15:55:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1224",
+      "text": "InternTask1_Aiswarya M_20"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1225",
+      "time": "2024-07-06T15:54:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1225",
+      "text": "InternTask1_Aiswarya M_21"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1227",
+      "time": "2024-07-06T15:54:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1227",
+      "text": "InternTask1_Aiswarya M_23"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1228",
+      "time": "2024-07-06T15:54:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1228",
+      "text": "InternTask1_Aiswarya M_24"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1229",
+      "time": "2024-07-06T15:54:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1229",
+      "text": "InternTask1_Aiswarya M_25"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1249",
+      "time": "2024-07-06T15:54:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1249",
+      "text": "InternTask1_Shreerag Namboothiri K H_11"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1250",
+      "time": "2024-07-06T15:54:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1250",
+      "text": "InternTask1_Shreerag Namboothiri K H_12"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1251",
+      "time": "2024-07-06T15:54:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1251",
+      "text": "InternTask1_Shreerag Namboothiri K H_13"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1252",
+      "time": "2024-07-06T15:54:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1252",
+      "text": "InternTask1_Shreerag Namboothiri K H_14"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1253",
+      "time": "2024-07-06T15:54:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1253",
+      "text": "InternTask1_Shreerag Namboothiri K H_15"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1254",
+      "time": "2024-07-06T15:54:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1254",
+      "text": "InternTask1_Shreerag Namboothiri K H_16"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1255",
+      "time": "2024-07-06T15:54:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1255",
+      "text": "InternTask1_Shreerag Namboothiri K H_17"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1256",
+      "time": "2024-07-06T15:54:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1256",
+      "text": "InternTask1_Shreerag Namboothiri K H_18"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1257",
+      "time": "2024-07-06T15:53:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1257",
+      "text": "InternTask1_Shreerag Namboothiri K H_19"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1258",
+      "time": "2024-07-06T15:53:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1258",
+      "text": "InternTask1_Shreerag Namboothiri K H_20"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1259",
+      "time": "2024-07-06T15:53:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1259",
+      "text": "InternTask1_Shreerag Namboothiri K H_21"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1260",
+      "time": "2024-07-06T15:51:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1260",
+      "text": "InternTask1_Shreerag Namboothiri K H_22"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1261",
+      "time": "2024-07-06T15:51:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1261",
+      "text": "InternTask1_Shreerag Namboothiri K H_23"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1262",
+      "time": "2024-07-06T15:51:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1262",
+      "text": "InternTask1_Shreerag Namboothiri K H_24"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1263",
+      "time": "2024-07-06T15:50:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1263",
+      "text": "InternTask1_Shreerag Namboothiri K H_25"
+    },
     {
       "type": "issue_closed",
       "title": "gtech-mulearn/mulearn#1282",

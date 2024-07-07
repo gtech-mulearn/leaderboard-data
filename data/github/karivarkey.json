@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-07-05T17:27:25+00:00",
+  "last_updated": "2024-07-06T14:03:02+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1584",
+      "time": "2024-07-06T14:03:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1584",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1583",
+      "time": "2024-07-06T12:36:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1583",
+      "text": "Changed calendar source",
+      "turnaround_time": 1377
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1583",
+      "time": "2024-07-06T12:13:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1583",
+      "text": "Changed calendar source"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearn#1582",
