@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-07-10T06:30:24+00:00",
+  "last_updated": "2024-07-11T09:03:55+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2156",
+      "time": "2024-07-11T09:03:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2156",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2155",
+      "time": "2024-07-11T08:55:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2155",
+      "text": "Fix Launchpad list api",
+      "turnaround_time": 2024
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2155",
+      "time": "2024-07-11T08:21:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2155",
+      "text": "Fix Launchpad list api"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearnbackend#2152",

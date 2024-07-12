@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-10T23:50:33+00:00",
+  "last_updated": "2024-07-11T09:47:35+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-11T09:47:35+00:00",
+      "title": "gtech-mulearn/mulearn#1588",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1588#pullrequestreview-2171439481",
+      "text": "bugfix - Fixed broken LinkedIn links of Execom Team"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#1588",
