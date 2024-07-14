@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-07-11T14:23:15+00:00",
+  "last_updated": "2024-07-13T11:30:41+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1589",
+      "time": "2024-07-13T11:30:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1589",
+      "text": "feat (dashboard):added create certificate feature",
+      "turnaround_time": 76047
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#1589",
@@ -250,13 +258,6 @@
       "text": "Pushing my work on learning Github"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/mulearn/pull/1589",
-      "title": "feat (dashboard):added create certificate feature",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

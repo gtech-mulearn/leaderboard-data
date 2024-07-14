@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-06-29T16:17:38+00:00",
+  "last_updated": "2024-07-13T17:36:30+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/foundation#5",
+      "time": "2024-07-13T17:36:30+00:00",
+      "link": "https://github.com/gtech-mulearn/foundation/pull/5",
+      "text": "feat(ui):home page updated",
+      "turnaround_time": 48473
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/foundation#5",
+      "time": "2024-07-13T04:08:38+00:00",
+      "link": "https://github.com/gtech-mulearn/foundation/pull/5",
+      "text": "feat(ui):home page updated"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/foundation#3",
@@ -281,13 +296,6 @@
       "text": "Med Reports"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/41",
-      "title": "Med Reports",
-      "stale_for": 223,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
