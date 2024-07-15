@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-11T09:47:35+00:00",
+  "last_updated": "2024-07-14T17:37:41+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1170",
+      "time": "2024-07-14T17:37:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1170",
+      "text": "Updated ananthudevdv@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-11T09:47:35+00:00",
@@ -55,9 +62,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1170",
+      "title": "Updated ananthudevdv@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/gtech-mulearn/mulearn/pull/1588",
       "title": "bugfix - Fixed broken LinkedIn links of Execom Team",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     }
   ],
