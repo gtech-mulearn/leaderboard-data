@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-07-13T11:30:41+00:00",
+  "last_updated": "2024-07-20T16:37:01+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1585",
+      "time": "2024-07-20T16:37:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1585",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "viraka",
+        "Nandana-pradeep33"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearn#1589",
