@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-21T15:51:32+00:00",
+  "last_updated": "2024-07-23T17:11:29+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1598",
+      "time": "2024-07-23T17:11:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1598",
+      "text": " fix():Replaced Magazine link in Navbar with new one"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1597",
@@ -94,6 +101,13 @@
       "text": "Nandana Added Nandana Store"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1598",
+      "title": " fix():Replaced Magazine link in Navbar with new one",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

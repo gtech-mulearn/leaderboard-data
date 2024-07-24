@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-06-19T09:57:50+00:00",
+  "last_updated": "2024-07-23T10:42:00+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/unnathi#37",
+      "time": "2024-07-23T10:42:00+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/37",
+      "text": "Merge pull request #36 from gtech-mulearn/dev",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/unnathi#37",
+      "time": "2024-07-23T10:41:53+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/37",
+      "text": "Merge pull request #36 from gtech-mulearn/dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/unnathi#36",
+      "time": "2024-07-23T10:41:43+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/36",
+      "text": "governing body update",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/unnathi#36",
+      "time": "2024-07-23T10:41:37+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/36",
+      "text": "governing body update"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/bring-every-business-online#101",
