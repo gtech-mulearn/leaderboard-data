@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-07-18T16:33:28+00:00",
+  "last_updated": "2024-07-24T13:19:53+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/top100coders-frontend#15",
+      "time": "2024-07-24T13:19:53+00:00",
+      "link": "https://github.com/gtech-mulearn/top100coders-frontend/pull/15",
+      "text": "feat(UI):revamped",
+      "turnaround_time": 74785
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/top100coders-frontend#15",
+      "time": "2024-07-24T13:19:53+00:00",
+      "link": "https://github.com/gtech-mulearn/top100coders-frontend/pull/15",
+      "text": "feat(UI):revamped",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/top100coders-frontend#15",
@@ -328,6 +346,13 @@
       "text": "Med Reports"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/41",
+      "title": "Med Reports",
+      "stale_for": 248,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

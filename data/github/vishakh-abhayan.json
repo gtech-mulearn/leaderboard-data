@@ -1,6 +1,16 @@
 {
-  "last_updated": "2024-07-04T17:31:34+00:00",
+  "last_updated": "2024-07-24T13:19:53+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/top100coders-frontend#15",
+      "time": "2024-07-24T13:19:53+00:00",
+      "link": "https://github.com/gtech-mulearn/top100coders-frontend/pull/15",
+      "text": "feat(UI):revamped",
+      "collaborated_with": [
+        "arjuncvinod"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/mulearn#1578",

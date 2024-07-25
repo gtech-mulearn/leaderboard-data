@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-07-23T10:42:00+00:00",
+  "last_updated": "2024-07-24T09:35:51+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/unnathi#39",
+      "time": "2024-07-24T09:35:51+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/39",
+      "text": "Merge pull request #38 from gtech-mulearn/dev",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/unnathi#39",
+      "time": "2024-07-24T09:35:45+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/39",
+      "text": "Merge pull request #38 from gtech-mulearn/dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/unnathi#38",
+      "time": "2024-07-24T09:35:26+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/38",
+      "text": "updates on governing body data",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/unnathi#38",
+      "time": "2024-07-24T09:35:18+00:00",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/38",
+      "text": "updates on governing body data"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/unnathi#37",
