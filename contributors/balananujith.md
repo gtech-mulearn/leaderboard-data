@@ -1,5 +1,5 @@
 ---
-name: `ANUJITH BALAN
+name: ANUJITH BALAN
 title: Contributor
 github: balananujith
 twitter: ""
