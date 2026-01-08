@@ -1,0 +1,49 @@
+name: Sync Contributors
+
+on:
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if the repository is a fork
+        run: |
+          if [[ "${GITHUB_REPOSITORY}" != "gtech-mulearn/leaderboard-data" ]]; then
+            echo "This workflow does not run on forks."
+            exit 0
+          fi
+
+      - name: Checkout leaderboard repo
+        uses: actions/checkout@v5
+        with:
+          repository: gtech-mulearn/leaderboard
+          ref: main
+          token: ${{ secrets.GIT_PAT }}
+
+      - name: Remove old data-repo folder
+        run: |
+          rm -rf data-repo
+          echo "✅ Deleted existing data-repo folder"
+
+      - name: Clone current repo into data-repo folder
+        run: |
+          git clone --depth 1 https://github.com/gtech-mulearn/leaderboard-data.git data-repo
+          rm -rf data-repo/.git
+          echo "✅ Cloned gtech-mulearn/leaderboard-data into data-repo folder"
+
+      - name: Set up Git config
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        run: |
+          git add data-repo
+          git commit -m "chore: synced contributors data" || echo "No changes to commit"
+          git push origin main
